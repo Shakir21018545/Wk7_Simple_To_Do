@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wk7 Simple To Do</string>
+    <string name="enter_new_task">Enter new Task</string>
+    <string name="add">ADD</string>
+    <string name="clear">Clear</string>
+    <string name="delete">DELETE</string>
+    <string-array name="spinerItems">
+        <item>Add a task</item>
+        <item>Remove a task </item>
+    </string-array>
+</resources>
